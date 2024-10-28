@@ -1,0 +1,14 @@
+C:\c#_projeler\ilkProje\bin\Debug\net8.0\ilkProje.exe
+C:\c#_projeler\ilkProje\bin\Debug\net8.0\ilkProje.deps.json
+C:\c#_projeler\ilkProje\bin\Debug\net8.0\ilkProje.runtimeconfig.json
+C:\c#_projeler\ilkProje\bin\Debug\net8.0\ilkProje.dll
+C:\c#_projeler\ilkProje\bin\Debug\net8.0\ilkProje.pdb
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\ilkProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\ilkProje.AssemblyInfoInputs.cache
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\ilkProje.AssemblyInfo.cs
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\ilkProje.csproj.CoreCompileInputs.cache
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\ilkProje.dll
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\refint\ilkProje.dll
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\ilkProje.pdb
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\ilkProje.genruntimeconfig.cache
+C:\c#_projeler\ilkProje\obj\Debug\net8.0\ref\ilkProje.dll
