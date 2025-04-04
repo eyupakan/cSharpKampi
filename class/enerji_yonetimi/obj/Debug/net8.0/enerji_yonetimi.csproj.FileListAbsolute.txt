@@ -1,0 +1,14 @@
+C:\c#_projeler\class\enerji_yonetimi\bin\Debug\net8.0\enerji_yonetimi.exe
+C:\c#_projeler\class\enerji_yonetimi\bin\Debug\net8.0\enerji_yonetimi.deps.json
+C:\c#_projeler\class\enerji_yonetimi\bin\Debug\net8.0\enerji_yonetimi.runtimeconfig.json
+C:\c#_projeler\class\enerji_yonetimi\bin\Debug\net8.0\enerji_yonetimi.dll
+C:\c#_projeler\class\enerji_yonetimi\bin\Debug\net8.0\enerji_yonetimi.pdb
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\enerji_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\enerji_yonetimi.AssemblyInfoInputs.cache
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\enerji_yonetimi.AssemblyInfo.cs
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\enerji_yonetimi.csproj.CoreCompileInputs.cache
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\enerji_yonetimi.dll
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\refint\enerji_yonetimi.dll
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\enerji_yonetimi.pdb
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\enerji_yonetimi.genruntimeconfig.cache
+C:\c#_projeler\class\enerji_yonetimi\obj\Debug\net8.0\ref\enerji_yonetimi.dll
